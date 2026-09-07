@@ -1,3 +1,3 @@
-a=int(input("enter no."))
+a=float(input("enter no."))
 
 print(type(a))
