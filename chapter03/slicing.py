@@ -12,6 +12,6 @@ print(name[-3:-1])
 # but last one will be excluded 
  
 a="amazing#dude"
-print(a[1:8:2])
+print(a[0:11:2])
 print(a[:7])  # from 0 to 6th 
 print(a[0:])  #from 0 to last without excluding 
